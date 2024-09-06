@@ -1,5 +1,5 @@
 {
-	"latest_build": 1,
+	"latest_build": 2,
 	"min_supported_build": 1,
 	"store_url": "https://play.google.com/store/apps/details?id=co.puzly.slwp",
 	"other_languages": [
@@ -21,7 +21,7 @@
 			"name": "Four-Letter Word Puzzle",
 			"language": "English",
 			"url": "https://play.google.com/store/apps/details?id=co.puzly.folwp",
-			"status": "beta"
+			"status": "released"
 		},
 		{
 			"name": "Five-Letter Word Puzzle",
